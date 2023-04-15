@@ -10,16 +10,16 @@ global.email = 'sam@sec.live'
 global.github = 'https://github.com/prabathLK/PRABATH-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '94762280384'
+global.sudo = process.env.SUDO || '923123681251'
 global.devs = '94762280384';
 global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/LNSkCPW.jpeg'
 module.exports = {
-  botname: process.env.BOT_NAME || '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨',
+  botname: process.env.BOT_NAME || 'Zakhmi Farooq',
   autosticker: process.env.AUTO_STICKER || 'false',
-  autovoice: process.env.AUTO_VOICE || 'false',
+  autovoice: process.env.AUTO_VOICE || 'true',
   botapikey: process.env.BOTCAHX_API || '',
-  alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg',
+  alivepic: process.env.ALIVE_IMG || 'https://i.imgur.com/LNSkCPW.jpeg',
   alivemsj: process.env.ALIVE_MSJ || '*The bot developer is prabath* 🎊',
   ownername:process.env.OWNER_NAME || 'PRABATH',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
